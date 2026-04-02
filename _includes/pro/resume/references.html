@@ -1,0 +1,24 @@
+{% if resume.references.size > 0 %}
+<section>
+  <div class="npb">
+  <h2 id="references" class="h3 hr-bottom">
+    {{ strings.resume.references | default:"References" }}
+    <span class="symbol {{ icons.references | default:'icon-quotes-right' }}"></span>
+  </h2>
+  {% for ref in resume.references %}
+    <blockquote class="reference">
+      <p>{{ ref.reference }}</p>
+      <footer>— <cite>
+	  {% capture name %}<span>{{ ref.name }}</span>{% endcapture %}
+      {% capture role %}<span>{{ ref.role }}</span>{% endcapture %}
+	  {% capture company %}<span>{{ ref.company }}</span>{% endcapture %}
+	  {{ strings.resume.references_author 
+	   | default:"<!--name-->, <!--role--> at <!--company-->"
+       | replace:"<!--name-->", name
+       | replace:"<!--role-->", role
+       | replace:"<!--company-->", company }}</cite></footer>
+    </blockquote>
+  {% if forloop.first %}</div>{% endif %}
+  {% endfor %}
+</section>
+{% endif %}

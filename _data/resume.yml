@@ -1,0 +1,135 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Connor Moran"
+  label: "Game Designer / Producer"
+  picture: "https://via.placeholder.com/240x240"
+  email: "connor.nelson.moran@gmail.com"
+  phone: "+44(0) 7435 390760"
+  website: ""
+  summary: >
+    A highly motivated Game Designer with a strong foundation in computer games programming and six years of experience in the video games industry, I combine creative vision with technical expertise. I’m known for my organisational skills, attention to detail, and innovative approach to problem-solving, and I’m passionate about crafting engaging, well-considered game experiences. I’m eager to continue developing my design skills and contribute meaningfully within a collaborative, dynamic team.
+  location:
+    city: "Manchester"
+    countryCode: "UK"
+    region: "Greater Manchester"
+  profiles:
+    - network: "LinkedIn"
+      username: "connor-n-moran"
+      url: "https://www.linkedin.com/in/connor-n-moran/"
+    - network: "Github"
+      username: "ConnorNMoran"
+      url: "https://github.com/ConnorNMoran"
+    - network: "Steam"
+      username: "Pixelated Abyss"
+      url: "https://steamcommunity.com/id/pixelatedabyss/"
+    - network: "Discord"
+      username: "pixelated.abyss"
+      url: "https://discordapp.com/users/1218886419150409780"
+work:
+  - company: "Fireslug Studios LTD."
+    position: "Lead Game Designer & Project Manager"
+    website: "https://fireslugstudios.com/"
+    startDate: "2023-01-01"
+    endDate: ""
+    projects:
+    - Example <i>(Unreleased)</i>
+  - company: "Sony Interactive Entertainment"
+    position: "Unity Developer"
+    website: "https://sonyinteractive.com/en/"
+    startDate: "2022-05-01"
+    endDate: "2022-09-01"
+    projects:
+    - Example <i>(Unreleased)</i>
+  - company: "Ferranti Technologies LTD."
+    position: "VR Developer"
+    website: "https://www.ttelectronics.com/brands/ferranti/"
+    startDate: "2021-04-01"
+    endDate: "2021-08-01"
+    projects:
+    - <i>Undisclosed</i>
+  - company: "Scan Computers"
+    position: "Junior Software Developer"
+    website: "https://www.scan.co.uk/"
+    startDate: "2019-01-01"
+    endDate: "2021-04-01"
+    projects:
+    - <a href='/projects/Shapley%20Value%20Attribution%20Research%20and%20Validation/'>Shapley Value Attribution Research</a>
+  - company: "Virtual Reality Simulation Systems"
+    position: "Unity 3D Developer"
+    website: "https://vrss.co.uk/"
+    startDate: "2017-10-01"
+    endDate: "2018-06-01"
+    projects:
+    - Example <i>(Unreleased)</i>
+education:
+  - institution: "Staffordshire University"
+    area: "Computer Games Programming"
+    studyType: "BSc"
+    startDate: "2013-09-01"
+    endDate: "2017-07-01"
+    modules:
+      - "COSE40630 - Fundamentals of Game and Graphical System Development"
+      - "COSE40577 - Introduction to Software Development"
+      - "COIS40896 - Professional Business Skills"
+      - "COCS40682 - Fundamentals of Computing and Mathematics"
+      - "MATH50369 - Further Mathematics and Algorithmics"
+      - "COSE50647 - Concurrent Network Applications"
+      - "COSE50631 - Technical Games Production"
+      - "COSE50581 - Further Games and Graphics Concepts"
+      - "COSE50578 - Artifical Intelligence for Games"
+      - "COSE60595 - Mobile Games Development"
+      - "COSE60593 - Low-Level Game Programming"
+      - "COSE60591 - Group Game Development Project and Work-Based Simulation"
+      - "COIS61028 - Final Year Project"  
+skills:
+  - name: "Engines & Scripting"
+    level: "Master"
+    keywords:
+      - "Unity"
+      - "C#"
+      - "C++"
+      - "JavaScript"
+      - "Lua"
+  - name: "Technical"
+    level: "Master"
+    keywords:
+      - "Mathematics"
+      - "Data Analysis"
+      - "Prototyping"
+      - "Balancing"
+      - "Playtesting"
+  - name: "Design"
+    level: "Master"
+    keywords:
+      - "Level Design"
+      - "UI/UX Design"
+      - "Narrative Design"
+      - "Game Mechanics"
+  - name: "Art Tools"
+    level: "Master"
+    keywords:
+      - "Illustrator"
+      - "InDesign"
+      - "Photoshop"    
+  - name: "Project Management"
+    level: "Master"
+    keywords:
+      - "Documentation"
+      - "Trello"
+      - "GitHub"
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+interests:
+  - name: "Wildlife"
+    keywords:
+      - "Ferrets"
+      - "Unicorns"
+references:
+  - name: "Joel Mayner"
+    role: "Technical Director"
+    company: "Fireslug Studios"
+    reference: >
+        Whether structuring operational systems or guiding creative design, Connor combined diligence, organisation, and creativity to leave a lasting impact on our studio. His versatility and drive for quality makes him a valuable asset to any team
