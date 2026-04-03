@@ -78,6 +78,7 @@ permalink:             /blog/:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /blog/:num/
 
+#Google analytics code
 google_analytics:      G-LYBHCPFN7V
 
 # Theme
