@@ -28,6 +28,14 @@ basics:
       username: "pixelated.abyss"
       url: "https://discordapp.com/users/1218886419150409780"
 work:
+  - company: "Northwood Studios"
+    position: "Forum Moderator"
+    website: "https://scpslgame.com/"
+    startDate: "01-03-2026"
+    endDate: ""
+    contract: false
+    projects:
+    - <i>Community Operations</i>
   - company: "Fireslug Studios LTD."
     position: "Lead Game Designer & Project Manager"
     website: "https://fireslugstudios.com/"
