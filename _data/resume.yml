@@ -9,7 +9,7 @@ basics:
   phone: "+44(0) 7435 390760"
   website: ""
   summary: >
-    A highly motivated Game Designer with a strong foundation in computer games programming and six years of experience in the video games industry, I combine creative vision with technical expertise. I’m known for my organisational skills, attention to detail, and innovative approach to problem-solving, and I’m passionate about crafting engaging, well-considered game experiences. I’m eager to continue developing my design skills and contribute meaningfully within a collaborative, dynamic team.
+    A highly motivated game designer with a strong foundation in computer games programming and six years of experience in the video games industry, I combine creative vision with technical expertise. I’m known for my organisational skills, attention to detail, and innovative approach to problem-solving, and I’m passionate about crafting engaging, well-considered game experiences. I’m eager to continue developing my design skills and contribute meaningfully within a collaborative, dynamic team.
   location:
     city: "Manchester"
     countryCode: "UK"
@@ -104,49 +104,68 @@ education:
       - "COSE60591 - Group Game Development Project and Work-Based Simulation"
       - "COIS61028 - Final Year Project"  
 skills:
-  - name: "Engines & Scripting"
-    level: "Master"
-    keywords:
-      - "Unity"
-      - "C#"
-      - "C++"
-      - "JavaScript"
-      - "Lua"
   - name: "Technical"
-    level: "Master"
+    level: "Expert"
     keywords:
       - "Mathematics"
       - "Data Analysis"
       - "Prototyping"
       - "Balancing"
       - "Playtesting"
+  - name: "Project Management"
+    level: "Expert"
+    keywords:
+      - "Documentation"
+      - "Trello"
+      - "GitHub"
   - name: "Design"
-    level: "Master"
+    level: "Senior"
     keywords:
       - "Level Design"
       - "UI/UX Design"
       - "Narrative Design"
       - "Game Mechanics"
+  - name: "Engines & Scripting"
+    level: "Intermediate"
+    keywords:
+      - "Unity"
+      - "C#"
+      - "C++"
+      - "JavaScript"
+      - "Lua"
   - name: "Art Tools"
-    level: "Master"
+    level: "Junior"
     keywords:
       - "Illustrator"
       - "InDesign"
       - "Photoshop"    
-  - name: "Project Management"
-    level: "Master"
-    keywords:
-      - "Documentation"
-      - "Trello"
-      - "GitHub"
 languages:
   - language: "English"
     fluency: "Native speaker"
 interests:
-  - name: "Wildlife"
+  - name: "Hobbies"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "Video Games"
+      - "Board Games"
+      - "Tabletop RPGs"
+      - "Films"
+      - "Lockpicking"
+      - "3D Printing"
+  - name: "Creative Pursuits"
+    keywords:
+      - "Piano"
+      - "Origami"
+      - "Baking"
+      - "Pâtisserie"
+      - "Confectionary"
+      - "Mixology"
+  - name: "Outdoor Pursuits"
+    keywords:
+      - "Travelling"
+      - "Festivals"
+      - "Camping"
+      - "Archery"
+      - "Airsoft"    
 references:
   - name: "Joel Mayner"
     role: "Technical Director"
