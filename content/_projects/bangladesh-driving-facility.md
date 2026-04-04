@@ -1,7 +1,6 @@
 ---
 layout: project
 title: 'Bangladesh Police Driving Facility'
-header_title: 'Bangladesh Police Driving Facility'
 caption: Dogfooding Hydejack to sell Hydejack.
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.

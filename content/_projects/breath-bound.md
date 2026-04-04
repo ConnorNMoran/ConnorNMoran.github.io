@@ -1,7 +1,6 @@
 ---
 layout: project
 title: 'Breath Bound'
-header_title: 'Breath Bound'
 caption: A co-op survival game built around a shared breathing mechanic.
 description: >
   A vibrant clown behind bars gestures for silence under a guard’s watchful eye in this title art for Hold Your Honk.

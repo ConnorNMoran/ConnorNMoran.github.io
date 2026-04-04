@@ -1,7 +1,6 @@
 ---
 layout: project
 title: 'Gwent Police Immersive Training CAVE'
-header_title: 'Gwent Police Immersive Training CAVE'
 caption: TEST
 description: >
   sdfsdfsdfsdf

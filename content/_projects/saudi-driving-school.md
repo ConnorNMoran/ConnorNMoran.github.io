@@ -1,7 +1,6 @@
 ---
 layout: project
 title: 'Saudi Aramco Women’s Driving School'
-header_title: 'Saudi Aramco Women’s Driving School'
 caption: Dogfooding Hydejack to sell Hydejack.
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.

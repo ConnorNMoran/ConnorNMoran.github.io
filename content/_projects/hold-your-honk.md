@@ -1,7 +1,6 @@
 ---
 layout: project
 title: 'Hold Your Honk'
-header_title: 'Hold Your Honk'
 caption: An arcade stealth game built around a laughter restraint mechanic.
 description: >
   A vibrant clown behind bars gestures for silence under a guard’s watchful eye in this title art for Hold Your Honk.
