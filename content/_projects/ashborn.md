@@ -14,7 +14,7 @@ image:
 links:
   - title: Link
     url: https://web.archive.org/web/20250407181420/https://www.fireslugstudios.com/
-sitemap: false
+sitemap: true
 ---
 
 Ashborn (unreleased)

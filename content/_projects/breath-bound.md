@@ -18,7 +18,7 @@ accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
 theme_color: '#193747'
-sitemap: false
+sitemap: true
 ---
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
 <img 

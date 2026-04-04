@@ -17,4 +17,5 @@ buttons:
   print: false
   pdf: /assets/downloads/general/Connor%20Moran's%20Game%20CV.pdf
   json: /assets/resume.json
+sitemap: true
 ---

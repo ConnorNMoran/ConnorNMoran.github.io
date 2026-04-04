@@ -11,10 +11,7 @@ image:
     1920w: /assets/img/projects/Circuitboard_Stock_Image.jpg
     960w:  /assets/img/projects/Circuitboard_Stock_Image@0.5x.jpg
     480w:  /assets/img/projects/Circuitboard_Stock_Image@0.25x.jpg
-links:
-  - title: Link
-    url: https://abcnews.com/International/change-life-saudi-women-ready-drive-weekend/story?id=56088799
-sitemap: false
+sitemap: true
 ---
 
 For

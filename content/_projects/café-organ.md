@@ -11,7 +11,7 @@ image:
     1920w: /assets/img/projects/Café_Organ_Monsters.jpg
     960w:  /assets/img/projects/Café_Organ_Monsters@0.5x.jpg
     480w:  /assets/img/projects/Café_Organ_Monsters@0.25x.jpg
-sitemap: false
+sitemap: true
 ---
 
 Café Organ

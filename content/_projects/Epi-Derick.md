@@ -14,7 +14,7 @@ image:
 links:
   - title: Link
     url: https://store.steampowered.com/app/2178890/EpiDerick
-sitemap: false
+sitemap: true
 ---
 
 For

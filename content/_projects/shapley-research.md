@@ -11,6 +11,7 @@ image:
     1920w: /assets/img/projects/Attribution_Models.jpg
     960w:  /assets/img/projects/Attribution_Models@0.5x.jpg
     480w:  /assets/img/projects/Attribution_Models@0.25x.jpg
+sitemap: true
 ---
 <style>
   span.icon-link, 

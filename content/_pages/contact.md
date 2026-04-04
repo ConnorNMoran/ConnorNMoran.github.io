@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-sitemap: false
+sitemap: true
 ---
 Looking for a collaborator or exploring a potential hire? Use the form below to get in touch.
 
