@@ -1,6 +1,7 @@
 ---
 layout: project
 title: 'Rolls-Royce AR Assembly Pilot'
+header_title: 'Rolls-Royce AR Assembly Pilot'
 caption: Dogfooding Hydejack to sell Hydejack.
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.

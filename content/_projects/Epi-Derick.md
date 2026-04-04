@@ -1,6 +1,7 @@
 ---
 layout: project
 title: 'Epi-Derick'
+header_title: 'Epi-Derick'
 caption: Dogfooding Hydejack to sell Hydejack.
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.

@@ -21,7 +21,7 @@ layout: base
   {% unless nsd %}vocab="http://schema.org/" typeof="CreativeWork" resource="#project"{% endunless %}
   >
   <header>
-    <h1 class="page-title" property="name">{{ project.title }}</h1>
+    <h1 class="page-title" property="name">{{ project.header_title }}</h1>
 
     <p class="post-date heading">
       <span class="ellipsis mr1">
@@ -61,7 +61,7 @@ layout: base
         {% include_cached components/hy-img.html
           img=screenshot
           sizes="(min-width: 90em) 48rem, (min-width: 54em) 42rem, (min-width: 42em) 38rem, 100vw"
-          alt=project.title
+          alt=project.header_title
           property="image"
           width=864
           height=486

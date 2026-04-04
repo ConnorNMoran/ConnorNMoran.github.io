@@ -1,6 +1,7 @@
 ---
 layout: project
-title: 'Café Organ <i>(unreleased)</i>'
+title: 'Café Organ (unreleased)'
+header_title: 'Café Organ <i>(unreleased)</i>'
 caption: Dogfooding Hydejack to sell Hydejack.
 description: >
   While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.

@@ -1,6 +1,7 @@
 ---
 layout: project
 title: 'Shapley Value Attribution Research'
+header_title: 'Shapley Value Attribution Research'
 caption: Auditing data-driven attribution models to identify shortcomings and optimize marketing spend.
 description: >
   A comparison of customer attribution models, which assign credit based on a touchpoint’s fixed position in a timeline. While the first five models follow defined patterns, the final icon represents a probabilistic approach using mathematically calculated contributions of each interaction by comparing various conversion paths.
