@@ -11,6 +11,8 @@ url:                   https://connor-n-moran.design
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 baseurl:               ''
 
+#Made to clean up root folder
+collections_dir:       content
 
 # General settings
 # ---------------------------------------------------------------------------------------
@@ -44,8 +46,6 @@ cmoran:
   # Used by `jekyll-feed`:
   name:                Connor Moran
   email:               connor.nelson.moran@gmail.com
-  # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
@@ -57,16 +57,6 @@ menu:
     url:               /projects/
   - title:             Contact
     url:               /contact/
-
-# Add links to the footer.
-# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-#legal:
-#  - title:             LICENSE
-#    url:               /LICENSE/
-#  - title:             NOTICE
-#    url:               /NOTICE/
-#  - title:             CHANGELOG
-#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2026. All rights reserved.
@@ -297,6 +287,10 @@ collections:
 
   featured_tags:
     permalink:         /tag-:name/
+    output:            true
+
+  pages:
+    permalink:         /:path/
     output:            true
 
   projects:

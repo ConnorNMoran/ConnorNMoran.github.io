@@ -1,0 +1,61 @@
+.popup
+{
+  position: fixed;
+  inset: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: rgba(0, 0, 0, 0.55);
+
+  z-index: 99999;
+
+  opacity: 0;
+  visibility: hidden;
+
+  pointer-events: none;
+
+  transition: opacity 250ms ease, visibility 250ms ease;
+}
+
+.popup.active
+{
+  opacity: 1;
+  visibility: visible;
+
+  pointer-events: auto;
+}
+
+.popup-box p
+{
+  margin: 0;
+  text-align: center;
+}
+
+/* IMPORTANT: block text selection + interaction weirdness */
+.popup-box
+{
+  background: var(--body-bg);
+  color: var(--text-color);
+
+  padding: 2rem;
+  border-radius: 16px;
+  border: 1px solid var(--accent-color-faded);
+
+  max-width: 360px;
+  width: calc(100% - 2rem);
+
+  text-align: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+
+  user-select: none;
+  -webkit-user-select: none;
+
+  pointer-events: auto;
+}

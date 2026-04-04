@@ -4,7 +4,7 @@ title: 'Breath Bound'
 caption: A co-op survival game built around a shared breathing mechanic.
 description: >
   A vibrant clown behind bars gestures for silence under a guard’s watchful eye in this title art for Hold Your Honk.
-date: 26 Jan 2025
+date: '26-01-2025'
 image: 
   path: /assets/img/projects/Breath_Bound_Title.jpg
   srcset: 

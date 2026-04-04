@@ -31,38 +31,50 @@ work:
   - company: "Fireslug Studios LTD."
     position: "Lead Game Designer & Project Manager"
     website: "https://fireslugstudios.com/"
-    startDate: "2023-01-01"
-    endDate: ""
+    startDate: "01-01-2023"
+    endDate: "01-03-2026"
+    contract: false
     projects:
-    - Example <i>(Unreleased)</i>
+    - <a href='/projects/Epi-Derick/'>Epi-Derick</a>
+    - <a href='/projects/Café%20Organ%20(unreleased)/'>Café Organ (unreleased)</a>
+    - <a href='/projects/Breath%20Bound/'>Breath Bound</a>
+    - <a href='/projects/Hold%20Your%20Honk/'>Hold Your Honk</a>
+    - <a href='/projects/Ashborn%20(unreleased)/'>Ashborn (unreleased)</a>
   - company: "Sony Interactive Entertainment"
     position: "Unity Developer"
     website: "https://sonyinteractive.com/en/"
-    startDate: "2022-05-01"
-    endDate: "2022-09-01"
+    startDate: "01-05-2022"
+    endDate: "01-09-2022"
+    contract: true
     projects:
-    - Example <i>(Unreleased)</i>
+    - <i>Undisclosed VR Project</i>
   - company: "Ferranti Technologies LTD."
     position: "VR Developer"
     website: "https://www.ttelectronics.com/brands/ferranti/"
-    startDate: "2021-04-01"
-    endDate: "2021-08-01"
+    startDate: "01-04-2021"
+    endDate: "01-08-2021"
+    contract: true
     projects:
-    - <i>Undisclosed</i>
+    - <i>Undisclosed VR/AR Project</i>
   - company: "Scan Computers"
     position: "Junior Software Developer"
     website: "https://www.scan.co.uk/"
-    startDate: "2019-01-01"
-    endDate: "2021-04-01"
+    startDate: "01-01-2019"
+    endDate: "01-04-2021"
+    contract: false
     projects:
     - <a href='/projects/Shapley%20Value%20Attribution%20Research%20and%20Validation/'>Shapley Value Attribution Research</a>
   - company: "Virtual Reality Simulation Systems"
     position: "Unity 3D Developer"
     website: "https://vrss.co.uk/"
-    startDate: "2017-10-01"
-    endDate: "2018-06-01"
+    startDate: "01-10-2017"
+    endDate: "01-06-2018"
+    contract: false
     projects:
-    - Example <i>(Unreleased)</i>
+    - <a href='/projects/Bangladesh%20Police%20Driving%20Facility/'>Bangladesh Police Driving Facility</a>
+    - <a href='/projects/Rolls-Royce%20AR%20Assembly%20Pilot/'>Rolls-Royce AR Assembly Pilot</a>
+    - <a href='/projects/Saudi%20Aramco%20Women’s%20Driving%20School/'>Saudi Aramco Women’s Driving School</a>
+    - <a href='/projects/Gwent%20Police%20Immersive%20Training%20CAVE/'>Gwent Police Immersive Training CAVE</a>
 education:
   - institution: "Staffordshire University"
     area: "Computer Games Programming"

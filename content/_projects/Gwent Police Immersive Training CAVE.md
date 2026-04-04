@@ -4,7 +4,7 @@ title: 'Gwent Police Immersive Training CAVE'
 caption: TEST
 description: >
   sdfsdfsdfsdf
-date: 19 Feb 2018
+date: '19-02-2018'
 image: 
   path: /assets/img/projects/Gwent_Police_Training_1.jpg
   srcset: 
