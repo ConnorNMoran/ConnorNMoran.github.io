@@ -14,7 +14,7 @@ image:
 links:
   - title: Global Game Jam Page
     url: https://globalgamejam.org/games/2024/hold-your-honk-2
-sitemap: false
+sitemap: true
 ---
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
 Developed for the 2024 Global Game Jam, Hold Your Honk is a comedic stealth game built around the theme "Make Me Laugh." Serving as the principal designer, I came up with the game’s core premise: a dystopian future where laughter is a capital offense. I authored the full game design document to coordinate our team during the 48-hour jam, ensuring the narrative of ‘Chuckle Rehabilitation Centres’ remained consistent across the mechanics and environmental design.
