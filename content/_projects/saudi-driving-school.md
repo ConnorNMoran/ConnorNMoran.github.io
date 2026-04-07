@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Saudi Aramco Women’s Driving School'
-caption: Dogfooding Hydejack to sell Hydejack.
+caption: Saudi Aramco Women’s Driving School.
 description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
+  Saudi Aramco Women’s Driving School.
 date: '03-03-2018'
 image: 
   path: /assets/img/projects/Driving_Simulator_1.jpg
@@ -17,7 +17,7 @@ links:
 sitemap: true
 ---
 
-For
+Saudi Aramco Women’s Driving School.
 
 <img 
   src="/assets/img/projects/Driving_Simulator_2@0.5x.jpg"
@@ -28,8 +28,6 @@ For
   onclick="openLightbox('/assets/img/projects/Driving_Simulator_2.jpg')"
   style="cursor: zoom-in; float: left; margin: 0 15px 10px 0; width: 300px; border-radius: 10px;"
   alt="Breath Bound Project Screenshot">
-  
-For
 
 <img 
   src="/assets/img/projects/Driving_Simulator_3@0.5x.jpg"
