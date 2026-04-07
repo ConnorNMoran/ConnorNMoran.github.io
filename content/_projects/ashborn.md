@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Ashborn <i>(unreleased)</i>'
-caption: Dogfooding Hydejack to sell Hydejack.
+caption: Ashborn (unreleased).
 description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
+  Ashborn (unreleased).
 date: '23-07-2023'
 image: 
   path: /assets/img/projects/Ashborn_Concept_Art.jpg
@@ -17,4 +17,4 @@ links:
 sitemap: true
 ---
 
-Ashborn (unreleased)
+Ashborn (unreleased).

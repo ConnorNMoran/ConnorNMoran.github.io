@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Bangladesh Police Driving Facility'
-caption: Dogfooding Hydejack to sell Hydejack.
+caption: Bangladesh Police Driving Facility.
 description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
+  Bangladesh Police Driving Facility.
 date: '09-05-2018'
 image: 
   path: /assets/img/projects/Jamalpur_Police_Station.jpg
@@ -17,4 +17,4 @@ links:
 sitemap: true
 ---
 
-For
+Bangladesh Police Driving Facility.

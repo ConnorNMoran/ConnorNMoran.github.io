@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Café Organ <i>(unreleased)</i>'
-caption: Dogfooding Hydejack to sell Hydejack.
+caption: Café Organ.
 description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
+  Café Organ.
 date: '29-08-2025'
 image: 
   path: /assets/img/projects/Café_Organ_Monsters.jpg

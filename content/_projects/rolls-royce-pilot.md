@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Rolls-Royce AR Assembly Pilot'
-caption: Dogfooding Hydejack to sell Hydejack.
+caption: Rolls-Royce AR Assembly Pilot.
 description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
+  Rolls-Royce AR Assembly Pilot.
 date: '11-04-2018'
 image: 
   path: /assets/img/projects/Circuitboard_Stock_Image.jpg
@@ -14,6 +14,6 @@ image:
 sitemap: true
 ---
 
-For
+Rolls-Royce AR Assembly Pilot.
 
 https://vr-compare.com/headset/meta2

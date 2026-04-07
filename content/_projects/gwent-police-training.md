@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 'Gwent Police Immersive Training CAVE'
-caption: TEST
+caption: Gwent Police Immersive Training CAVE.
 description: >
-  sdfsdfsdfsdf
+  Gwent Police Immersive Training CAVE.
 date: '19-02-2018'
 image: 
   path: /assets/img/projects/Gwent_Police_Training_1.jpg
@@ -21,7 +21,7 @@ theme_color: '#193747'
 sitemap: true
 ---
 
-For
+Gwent Police Immersive Training CAVE.
 
 <div style="width: 400px; float: left; margin: 0 15px 10px 0; border-radius: 10px; overflow: hidden;">
   <iframe 
